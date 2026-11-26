@@ -82,6 +82,7 @@ Most ad accounts lose conversions to iOS privacy changes, ad blockers and broken
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Server-Side Tracking Toolkit](https://github.com/jibon-mahmud/server-side-tracking-toolkit)** | Open-source Meta CAPI, GA4 dataLayer and dedup snippets plus my audit checklist for WooCommerce | PHP · GTM · CAPI |
 | **ogbyjibon** | WooCommerce plugin that captures incomplete checkouts so stores can recover lost orders | PHP · WooCommerce |
 | **Order Data Modify** | Tools for cleaning and editing WooCommerce order data | PHP · WooCommerce |
 | **Clipflow** | macOS productivity app | Swift |
